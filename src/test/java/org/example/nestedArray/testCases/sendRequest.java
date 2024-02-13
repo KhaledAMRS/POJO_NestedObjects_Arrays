@@ -8,7 +8,7 @@ import org.example.nestedArray.pojo.BookingdatesNestedArray;
 import java.util.ArrayList;
 import java.util.List;
 
-public class requestBody {
+public class sendRequest {
 
     public static void main(String[] args) {
         //request body

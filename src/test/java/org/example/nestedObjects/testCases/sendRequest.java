@@ -5,7 +5,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import org.example.nestedObjects.pojo.BookingRequestBody;
 import org.example.nestedObjects.pojo.BookingdatesNestedObject;
 
-public class requestBody {
+public class sendRequest {
 
     public static void main(String[] args) {
         //request body
